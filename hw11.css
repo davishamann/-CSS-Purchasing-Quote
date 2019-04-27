@@ -1,0 +1,10 @@
+#table{
+    position:absolute;
+    top:5px;
+    border-style:outset;
+    border-color:lightgrey;
+    border-width:6px;
+    border-radius:8%;
+    box-shadow:10px 10px 5px lightgrey;
+    background:lightgrey;
+}
